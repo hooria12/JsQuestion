@@ -1266,8 +1266,38 @@
 
 
 
+// var timer =10;
+// while (timer>0) {
+//     alert(timer);
+//     timer--;
+// }
 
 
+// var timmer = 10;
+// do {
+//     alert(timer);
+//     timer--;
+// } while (timer>0);
+
+
+
+// Chapter 46, 48 (Events)***********************************
+// *****************************************
+
+
+
+// function element(disply){
+//     alert(disply)
+// }
+
+
+// function greet(greetings){
+//     alert(greetings)
+// }
+
+// function Click(Clicking){
+//     alert
+// }
 
 
 
