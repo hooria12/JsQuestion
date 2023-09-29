@@ -1295,10 +1295,6 @@
 //     alert(greetings)
 // }
 
-// function Click(Clicking){
-//     alert
-// }
-
 
 
 
